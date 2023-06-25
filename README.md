@@ -1,6 +1,6 @@
 ﻿# ADP_tugas by mar28
 
-Deskripsi Masalah
+Deskripsi Masalah.
 Pada acara Pembukaan Gemastik 2021, Pak Gema berencana mengadakan bagi-bagi hadiah bagi
 para peserta. Setiap peserta akan mendapatkan nomor kupon (5 digit) yang nantinya akan diundi.
 Pada periode penentuan pemenang, akan dilakukan penentuan nomor kupon mana yang dianggap
