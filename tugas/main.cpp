@@ -29,7 +29,7 @@ int main() {
 			winningkupon.push_back(mydata[i]);
 		}
 	}
-	cout << "Pemenang diambil dari kupon yang mendekati nilai dari kupon \nPak Gema(" << X << ").";
+	cout << "Pemenang diambil dari kupon yang mendekati nilai dari kupon \nPak Gema(" << X << ").\n atau\n";
 	cout << "Pemenang yang no kuponnya sama dengan no kupon Pak Gema \nurutan pemenang Undian :";
 	for (int i = 0;i < winningkupon.size();i++) {
 		cout <<"No."<<i+1<<" " << winningkupon[i] << " , ";
